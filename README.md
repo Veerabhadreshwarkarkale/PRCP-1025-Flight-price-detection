@@ -46,7 +46,4 @@ The dataset contains the following columns:
 
 ---
 
-##  How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Veerabhadreshwarkarkale/PRCP-1025-Flight-price-detection.git
+
