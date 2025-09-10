@@ -1,13 +1,13 @@
 # PRCP-1025-Flight-price-detection
 Flight price prediction using ML models with EDA, feature engineering, and regression algorithms. Provides insights for customers and travel platforms to optimize pricing.
-# ✈️ Flight Price Prediction
+#  Flight Price Prediction
 
 This project predicts flight ticket prices based on various features such as airline, source, destination, number of stops, and journey details.  
 It applies **Machine Learning regression models** to provide accurate price forecasts, helping in decision-making for travelers and businesses.  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 - Implemented data preprocessing and feature engineering on flight dataset.  
 - Built multiple regression models (Linear Regression, Random Forest, Gradient Boosting, etc.) to predict flight fares.  
 - Evaluated performance using metrics like **R² score, MAE, and RMSE**.  
@@ -15,7 +15,7 @@ It applies **Machine Learning regression models** to provide accurate price fore
 
 ---
 
-## 📊 Dataset Features
+##  Dataset Features
 The dataset contains the following columns:  
 
 - **Airline** – Name of the airline (IndiGo, Jet Airways, Air India, etc.)  
@@ -27,12 +27,12 @@ The dataset contains the following columns:
 - **Duration** – Total travel time  
 - **Total_Stops** – Number of stops during the journey  
 - **Additional_Info** – Extra details like food, baggage, etc.  
-- **Price** – 🎯 Target variable (flight fare in INR)  
+- **Price** – Target variable (flight fare in INR)  
 
 ---
 
-## ⚙️ Technologies Used
-- Python 🐍  
+##  Technologies Used
+- Python   
 - Pandas & NumPy – Data preprocessing  
 - Matplotlib & Seaborn – Data visualization  
 - Scikit-learn – Machine Learning models  
@@ -40,13 +40,13 @@ The dataset contains the following columns:
 
 ---
 
-## 📈 Results
+##  Results
 - Achieved good prediction accuracy with ensemble models (Random Forest & Gradient Boosting).  
 - Found that **Airline, Total Stops, and Duration** are the most significant factors in predicting flight prices.  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Veerabhadreshwarkarkale/PRCP-1025-Flight-price-detection.git
